@@ -1,0 +1,2 @@
+One line in b.txt
+more text
