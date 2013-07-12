@@ -1,2 +1,3 @@
 First line
 Second line
+This line is added in clone1
