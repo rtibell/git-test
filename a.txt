@@ -7,3 +7,4 @@ Added this line in clone 2
 adding last lina as line 5 from project 1
 Local last line
 ---GLOBAL LAST---
+edit-1 project 2
