@@ -1,3 +1,4 @@
+New first line from project 1
 One line in b.txt
 more text
 added last line as line 3 in projekt 2

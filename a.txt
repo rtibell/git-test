@@ -1,5 +1,7 @@
 First line
 Second line
-Added line 3 from proj 2
+now adding line 3a as project 1. Second change before push.
+Added line 3b from proj 2
 This line is added in clone1
 Added this line in clone 2
+adding last lina as line 5 from project 1
