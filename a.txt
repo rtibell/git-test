@@ -1,4 +1,5 @@
 First line
 Second line
+Added line 3 from proj 2
 This line is added in clone1
 Added this line in clone 2
